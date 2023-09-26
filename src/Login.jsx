@@ -15,7 +15,7 @@ const Login = ({ setName }) => {
   const handleLogin = () => {
     if (password === secretPassword) {
       setMessage("Logged In");
-      navigate("/Homepage");
+      navigate("/homepage");
       setName(username);
       setIsAuthenticated(true);
 
