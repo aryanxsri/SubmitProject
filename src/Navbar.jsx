@@ -30,7 +30,7 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  to="todolist"
+                  to="/todolist"
                   aria-current="page"
                   className="nav-link active"
                 >
