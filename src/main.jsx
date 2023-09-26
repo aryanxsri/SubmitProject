@@ -6,7 +6,7 @@ import Homepage from "./Homepage";
 import TodoList from "./TodoList";
 import News from "./News";
 import Navbar from './Navbar';
-import Login from './login';
+import Login from './Login';
 // import LoginPage from './login';
 import LandingPage from './LandingPage';
 
