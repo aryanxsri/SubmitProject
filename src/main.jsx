@@ -16,10 +16,10 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route index element={<LandingPage />} />
-        <Route path="/Homepage" element={<Homepage name={name} />} />
-        <Route path="/TodoList" element={<TodoList />} />
-        <Route path="/Login" element={<Login setName={setName} />} />
-        <Route path="/News" element={<News />} />
+        <Route path="/homepage" element={<Homepage name={name} />} />
+        <Route path="/todolist" element={<TodoList />} />
+        <Route path="/login" element={<Login setName={setName} />} />
+        <Route path="/news" element={<News />} />
       </Routes>
     </BrowserRouter>
   );
