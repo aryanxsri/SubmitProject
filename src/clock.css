@@ -1,0 +1,6 @@
+.clock {
+    text-align: center; /* Optional: Center the text within this div */
+    padding: 20px; /* Optional: Add padding to the centered content */
+    background-color: #f0f0f0; /* Optional: Background color for the div */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Optional: Add a box shadow */
+  }

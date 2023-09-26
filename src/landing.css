@@ -1,0 +1,9 @@
+/* CenteredContainer.css */
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1vh; /* Make the container take up the full viewport height */
+  }
+  

@@ -1,0 +1,17 @@
+/* CenteredFlexContainer.css */
+
+.LoginContainer{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Ensure the container takes up the full viewport height */
+    background-color: #f0f0f0; /* Optional: Background color */
+}
+    .h1 {
+    text-align: center; /* Optional: Center the heading text */
+    margin-bottom: 20px; /* Add margin to separate the heading from content */
+  }
+  
+  
+  
+  
